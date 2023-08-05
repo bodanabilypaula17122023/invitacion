@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4a97411e.chunk.css",
+    "main.js": "./static/js/main.8362900d.chunk.js",
+    "main.js.map": "./static/js/main.8362900d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ccc09231.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ccc09231.js.map",
+    "static/css/2.383c0125.chunk.css": "./static/css/2.383c0125.chunk.css",
+    "static/js/2.1dc184b3.chunk.js": "./static/js/2.1dc184b3.chunk.js",
+    "static/js/2.1dc184b3.chunk.js.map": "./static/js/2.1dc184b3.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.383c0125.chunk.css.map": "./static/css/2.383c0125.chunk.css.map",
+    "static/css/main.4a97411e.chunk.css.map": "./static/css/main.4a97411e.chunk.css.map",
+    "static/js/2.1dc184b3.chunk.js.LICENSE.txt": "./static/js/2.1dc184b3.chunk.js.LICENSE.txt",
+    "static/media/Asistencia.c730fea0.gif": "./static/media/Asistencia.c730fea0.gif",
+    "static/media/Cierre.0a82f39c.gif": "./static/media/Cierre.0a82f39c.gif",
+    "static/media/Fiesta.51a1b6d3.gif": "./static/media/Fiesta.51a1b6d3.gif",
+    "static/media/Iglesia.46edf83d.gif": "./static/media/Iglesia.46edf83d.gif",
+    "static/media/Iniciales.53a0be5d.gif": "./static/media/Iniciales.53a0be5d.gif",
+    "static/media/Itinerario.736559d2.gif": "./static/media/Itinerario.736559d2.gif",
+    "static/media/foto.3b487acc.gif": "./static/media/foto.3b487acc.gif",
+    "static/media/musica.b57749f1.mp3": "./static/media/musica.b57749f1.mp3",
+    "static/media/regalo.3b87a1f1.gif": "./static/media/regalo.3b87a1f1.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccc09231.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.1dc184b3.chunk.js",
+    "static/css/main.4a97411e.chunk.css",
+    "static/js/main.8362900d.chunk.js"
+  ]
+}
